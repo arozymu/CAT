@@ -1,5 +1,5 @@
 .container-2 {
-    border: 1px solid red;
+    border: 1px solid black;
     width: 75%;
     margin: 0 auto;
     text-align: center;
@@ -12,6 +12,7 @@
     border: 1px solid blue;
 }
 .flex-box-conatiner-2 img {
- border: 1px solid green;
+ 
  padding: 10px;
+ box-shadow: 0px 10px 50px rgba(0, 0, 0,0.7);
 }
