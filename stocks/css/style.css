@@ -8,3 +8,6 @@
     display: flex;
     border: 1px solid blue;
 }
+.flex-box-conatiner-2 img {
+ border: 1px solid green;
+}
